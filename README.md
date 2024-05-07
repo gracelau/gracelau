@@ -8,7 +8,7 @@
 <p>I love meeting new people and seeing what they are looking for and where they want to go.</p>
 
   
-
+ 🌱 I’m currently learning ...how to code again after a bit of a 4 year hiatus.
 
 
 <!--
