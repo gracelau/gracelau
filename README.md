@@ -2,7 +2,7 @@
 
 ✨ I'm <b>Grace</b>, and I'd love to partner with you on your career journey.✨ </p>
 
-<p>I've dabbled in marketing, model management, <a href="http://www.gracelauphoto.com">fashion photography</a>,and startups & tech recruiting.</p>
+<p>I've dabbled in marketing, model management, <a href="http://www.gracelauphoto.com">photography</a>,and startups & tech recruiting.</p>
   <p>I've also dabbled in coding, UX and have a passion for ideation of products. </p>
   <p> I love talking about tech, startups, and anything in the innovation space. </p>
   <p>I am firm believer that <b> all</b> your experiences shape who you are and <b>all skills</b> are <strong>transferable</strong> skills. </p>
