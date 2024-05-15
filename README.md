@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-✨ I'm <b>Grace</b>, and I'd love to partner with you on your career journey.✨ </p>
+✨ I'm <b>Grace</b>, 
 
 <p>I've dabbled in marketing, model management, <a href="http://www.gracelauphoto.com">photography</a>, startups, & tech recruiting.</p>
   <p>I've also dabbled in coding, UX and have a passion for ideation of products. </p>
