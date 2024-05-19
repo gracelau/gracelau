@@ -7,9 +7,10 @@
   <p> I love talking about tech, startups, and anything in the innovation space. </p>
   <p>I am firm believer that <b> all</b> your experiences shape who you are and <b>all skills</b> are <strong>transferable</strong> skills. </p>
 <p>I love meeting new people and seeing what they are looking for and where they want to go.</p>
+
 ⚡ Fun fact: I am a self taught photograper who decided I wanted to be able to shoot photos that looked like the ones I saw in magazines 
   
- 🌱 I’m currently learning how to code again after a 4 year hiatus
+ 🌱 I’m currently learning how to code again after a 4 year hiatus 👩🏻‍💻
 
 
 <!--
